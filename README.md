@@ -1,3 +1,3 @@
 # polimorfismo
 
-Empresa:)
+Pequeña practica :)
